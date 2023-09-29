@@ -16,6 +16,6 @@ https://github.com/pkumivision/FFC/tree/main <br />
 https://github.com/NVIDIA/pix2pixHD/tree/master <br />
 
 ## Page
-https://pypi.org/project/litelama/ (Thanks to @novita ❤) <br />
+https://pypi.org/project/litelama/ (Thanks to @novitalabs ❤) <br />
 
 ## Output
